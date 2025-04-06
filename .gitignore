@@ -1,4 +1,11 @@
-node_modules/
+/node_modules
 .qodo
 .DS_Store
-.next/
+/.next
+/out
+package-lock.json
+/dist
+/.vscode
+/build
+.vercel
+next-env.d.ts
