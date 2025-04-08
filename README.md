@@ -15,7 +15,7 @@ Make sure you have the following installed on your machine:
  
 ### Installation
  
-1. Clone the repository from develop branch:
+1. Clone the repository from main branch:
  ```bash
  git clone https://github.com/sanjeevbaurai02/medal-count-app.git
 
